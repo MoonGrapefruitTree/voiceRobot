@@ -16,7 +16,7 @@
 - 主要依赖：
   - SpeechRecognition（语音识别）: iic/speech_paraformer-large-vad-punc_asr_nat-zh-cn-16k-common-vocab8404-pytorch  
   - TTS（语音合成）: ChatTTS、MELOTTS。
-  - LLM（理解和生成自然语言）：glm-4-flash。
+  - LLM（理解和生成自然语言）：glm-4-flash、Qwen2.5。
   
 ## 安装指南
 
